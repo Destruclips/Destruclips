@@ -37,4 +37,4 @@
 
 ---
 
-✨ *"Code is never just code — it’s a solution waiting to meet the right problem."*
+✨ *"In the end, it's you and the code"*
