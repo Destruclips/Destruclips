@@ -1,6 +1,13 @@
-# Hi there, I'm Yash 👋  
+<!-- Typing SVG Animation -->
+<p align="center">
+  <a href="https://github.com/Destruclips">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Yash+%F0%9F%91%8B;I+love+building+web+apps;Exploring+automation+%26+new+tech;Always+learning%2C+always+building">
+  </a>
+</p>
 
-💡 I love building **web apps**, experimenting with **automation tools**, and exploring technologies, constantly seeking smarter ways to solve real-world problems. 
+---
+
+💡 I love building **web apps**, experimenting with **automation tools**, and exploring technologies — constantly seeking smarter ways to solve real-world problems.  
 
 ---
 
@@ -13,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN-3C3C3C?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
 
 ---
@@ -24,8 +30,13 @@
 
 ---
 
-### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Destruclips&layout=compact&theme=radical)  
+### 📈 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Destruclips&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destruclips&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -33,6 +44,11 @@
 - Mastering **automation workflows** & **modern frontend frameworks**
 - Building scalable, impactful solutions
 - Contributing to open-source projects
+
+---
+
+### 📊 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=Destruclips&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
